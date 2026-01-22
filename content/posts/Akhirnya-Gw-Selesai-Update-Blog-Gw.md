@@ -14,4 +14,4 @@ Oh iya, alasan gue pindah ke Zola karena Zola ditulis pakai Rust jadi cepet. Oh 
 
 Ya sudah, sampai jumpa lagi guys, bye.
 
-{{ image(src="/images/1.webp", alt="Foto Langit dan ada Mataharinya", caption="Foto Langit") }}
+{{ image(src="/images/1.jpg", alt="Foto Langit dan ada Mataharinya", caption="Foto Langit") }}
